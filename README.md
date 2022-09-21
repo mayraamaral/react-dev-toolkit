@@ -1,4 +1,4 @@
-# React Dev Toolkit 2022
+# React Toolkit
 
 Amazing tools for development with ReactJS.
 
