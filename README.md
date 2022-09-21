@@ -4,6 +4,12 @@ Amazing tools for development with ReactJS.
 
 ## Summary
 
+- [1. State Management](https://github.com/mayraamaral/react-dev-toolkit#1-state-management)
+- [2. Styles in React](https://github.com/mayraamaral/react-dev-toolkit#2-styles-in-react)
+- [2.1 CSS Preprocessors](https://github.com/mayraamaral/react-dev-toolkit#21-css-preprocessors)
+- [2.2 CSS Frameworks](https://github.com/mayraamaral/react-dev-toolkit#22-css-frameworks)
+- [3. UI](https://github.com/mayraamaral/react-dev-toolkit#3-ui)
+
 ### 1. State Management
 
 - [ContextAPI](https://reactjs.org/docs/context.html)
