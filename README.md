@@ -15,7 +15,12 @@ Amazing tools for development with ReactJS.
 - [Styled Components](https://styled-components.com/)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 
-### 2.1 CSS Frameworks
+### 2.1 CSS Preprocessors
+
+- [SASS](https://sass-lang.com/)
+- [SASS Guidelines](https://sass-guidelin.es/)
+
+### 2.2 CSS Frameworks
 
 - [TailwindCSS](https://tailwindcss.com/)
 - [Bootstrap](https://getbootstrap.com/)
